@@ -328,9 +328,9 @@ version = "2.1.2+0"
 
 [[JuMP]]
 deps = ["Calculus", "DataStructures", "ForwardDiff", "LinearAlgebra", "MathOptInterface", "MutableArithmetics", "NaNMath", "OrderedCollections", "Printf", "SparseArrays", "SpecialFunctions"]
-git-tree-sha1 = "c48de82c5440b34555cb60f3628ebfb9ab3dc5ef"
+git-tree-sha1 = "936e7ebf6c84f0c0202b83bb22461f4ebc5c9969"
 uuid = "4076af6c-e467-56ae-b986-b466b2749572"
-version = "0.23.2"
+version = "1.0.0"
 
 [[LAME_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Pkg"]
